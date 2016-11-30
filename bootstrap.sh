@@ -1,4 +1,5 @@
 #!/bin/bash
+IP=$1
 
 scp -i ~/.ssh/access.pem install.zip ec2-user@$IP:/tmp/
 scp -i ~/.ssh/access.pem install.sh ec2-user@$IP:/tmp/
