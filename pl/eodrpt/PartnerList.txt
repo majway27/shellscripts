@@ -1,0 +1,4 @@
+#Comment via # in this file, put new Customers in this format - <ID>","<Friendly name, spaces allowed>
+#The only prohibited character in this file is "," which is the delimiter for the script
+010101,Northwinds INC
+020202,Widgets Corp
